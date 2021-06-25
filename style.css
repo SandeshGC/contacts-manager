@@ -1,0 +1,41 @@
+    body {
+        background-color: black;
+        color: white;
+        font-size: 30px;
+    }
+    
+    .main-text {
+        display: flex;
+        height: 50vh;
+        width: 100vw;
+        justify-content: center;
+        align-items: center;
+        font-size: 35vh;
+    }
+    
+    .welcome {
+        color: white;
+        text-align: center;
+        font-family: Helvetica, sans-serif;
+    }
+    
+    .bornhub {
+        font-weight: bold;
+    }
+    
+    .PH-text {
+        border-radius: 15px;
+        padding: 9px;
+        margin-left: 5px;
+        background-color: orange;
+        color: black;
+    }
+    
+    a:link {
+        color: white;
+        text-decoration: none;
+    }
+    
+    a:visited {
+        color: white;
+    }
