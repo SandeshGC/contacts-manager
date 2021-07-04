@@ -13,30 +13,9 @@
         font-size: 35vw;
     }
     
-    .welcome {
+    .site-description{
         position: relative;
         color: white;
         text-align: center;
         font-family: Helvetica, sans-serif;
-    }
-    
-    .bornhub {
-        font-weight: bold;
-    }
-    
-    .PH-text {
-        border-radius: 15px;
-        padding: 9px;
-        margin-left: 5px;
-        background-color: orange;
-        color: black;
-    }
-    
-    a:link {
-        color: white;
-        text-decoration: none;
-    }
-    
-    a:visited {
-        color: white;
     }
